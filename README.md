@@ -1,4 +1,3 @@
-## Hi there 👋
 
 <!--
 **mlee816/mlee816** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
